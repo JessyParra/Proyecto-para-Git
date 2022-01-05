@@ -1,0 +1,25 @@
+[33mcommit cd65721f767f9d3faba1caa8b43bac565c1f4df0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Jessy <jessica.parrarincon@gmail.com>
+Date:   Wed Jan 5 11:47:58 2022 -0300
+
+    Se agrego la conexión y 4 módulos
+
+ ac.php            |  50 [32m+++++++++++++++++[m
+ accesibilidad.php | 165 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ conexion.php      |   3 [32m+[m
+ ind.php           |  45 [32m+++++++++++++++[m
+ indexacion.php    | 151 [32m+++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 5 files changed, 414 insertions(+)
+
+[33mcommit 27f45a75393a3faaa44baedb058204d2bc4ceace[m
+Author: Jessy <jessica.parrarincon@gmail.com>
+Date:   Wed Jan 5 11:45:26 2022 -0300
+
+    Se creo el proyecto y se añadio el Index y CSS
+
+ CSS/style.css    | 182 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ IMG/banner.jpg   | Bin [31m0[m -> [32m51257[m bytes
+ IMG/logo-420.png | Bin [31m0[m -> [32m1642[m bytes
+ IMG/logo.png     | Bin [31m0[m -> [32m14514[m bytes
+ index.php        |  78 [32m++++++++++++++++++++++++[m
+ 5 files changed, 260 insertions(+)
